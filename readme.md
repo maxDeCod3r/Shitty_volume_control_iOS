@@ -1,4 +1,4 @@
-# S*itty Vo*ume Con*rol for iOS
+# S\*itty Vo\*ume Con\*rol for iOS
 
 ![alt-text](hero.png)
 
